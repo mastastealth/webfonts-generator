@@ -1,6 +1,6 @@
 {
   "name": "webfonts-generator",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Generator of webfonts from svg icons",
   "main": "src/index.js",
   "directories": {
@@ -27,15 +27,15 @@
     "url": "https://github.com/sunflowerdeath/webfonts-generator/issues"
   },
   "dependencies": {
-    "handlebars": "^4.0.5",
+    "handlebars": "^4.7.7",
     "mkdirp": "^0.5.0",
     "q": "^1.1.2",
     "svg2ttf": "^4.0.0",
     "svgicons2svgfont": "^5.0.0",
     "ttf2eot": "^2.0.0",
-    "ttf2woff": "^2.0.1",
-    "ttf2woff2": "^2.0.3",
-    "underscore": "^1.7.0",
+    "ttf2woff": "^3.0.0",
+    "ttf2woff2": "^4.0.4",
+    "underscore": "^1.13.0",
     "url-join": "^1.1.0"
   },
   "devDependencies": {
